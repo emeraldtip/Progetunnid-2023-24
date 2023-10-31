@@ -1,0 +1,13 @@
+Fragmentation is a multistage process. 
+(A) High-speed images show first fracture (Movie S1). 
+A crack nucleates and grows initially on a relatively slow millisecond timescale. 
+Catastrophic failure occurs at a critical crack depth (the Griffith length) leading to rapid crack propagation within ∼10 µs. 
+Subsequent separation of the two fragments is governed by another slower timescale associated with bending waves. 
+(B) High-speed images show sequential fractures separated by a characteristic distance. 
+Fragments are ejected with considerable angular velocity, in agreement with the observation of nonsimultaneous fractures. 
+(C) Simulations show bending waves originating at the point of first fracture creating additional fractures separated by at least the minimum fragment length λ. 
+The predicted fracture times agree with B. In simulations, fragments are frozen after fracture and do not evolve further. 
+(D) The time between the first two fractures and the resulting fragment length lie along the space-time path of the location of maximum bending stress (solid line) (sample size n = 110). 
+The distance between the first two fractures depends on quench speed but is bounded from below. 
+Diameter of rod and gaps between fragments are enhanced for visualization in C. 
+[Scale bars: (A) 1 mm and (B and C) 15 mm.]

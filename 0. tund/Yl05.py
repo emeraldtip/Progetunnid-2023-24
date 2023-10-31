@@ -1,0 +1,1 @@
+print("Sinu sisestatud sõna pikkus on",len(input("Sisesta sõna: ")))
